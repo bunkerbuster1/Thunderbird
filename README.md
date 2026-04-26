@@ -2,8 +2,7 @@
 
 <h1 align="center">Thunderbird</h1>
 
-> [!CAUTION]
-> Please note that this project isn't really maintained anymore before making issues! It has been superseded by [Scramjet](https://github.com/MercuryWorkshop/scramjet). An example application setup can be found [here](https://github.com/MercuryWorkshop/Scramjet-App).
+
 
 The deployable all-in-one bundle for [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 
@@ -17,7 +16,7 @@ If you are deploying to an alternative service or to a server, refer to [Deploy 
 
 Additional information such as [customizing your frontend](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki).
 
-Support and updates can be found in our [Discord Server](discord.gg/unblock).
+Updates about Thunderbird and it status can be found in my [Discord Server](https://discord.gg/MkadnWkFvv).
 
 > [!IMPORTANT]  
 > Until deployed on a domain with a valid SSL certificate, Firefox will not be able to load the site. Use chromium for testing on localhost
