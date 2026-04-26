@@ -2,6 +2,7 @@
 
 <h1 align="center">Thunderbird</h1>
 
+THUNDERBIRD IS CURRENTLY DOWN PLEASE WAIT
 
 
 The deployable all-in-one bundle for [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
@@ -27,4 +28,4 @@ The example uses [EpoxyTransport](https://github.com/MercuryWorkshop/EpoxyTransp
 
 You may also want to use [CurlTransport](https://github.com/MercuryWorkshop/CurlTransport), a different way of fetching encrypted data, or [Bare-Client](https://github.com/MercuryWorkshop/Bare-as-module3), the legacy (unencrypted!) transport.
 
-See the [bare-mux](https://github.com/MercuryWorkshop/bare-mux) documentation for more information.
+See the [bare-mux](https://github.com/MercuryWorkshop/bare-mux) documentation for more informati
