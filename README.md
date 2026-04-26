@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
+<p align="center"><img src="file:///C:/Users/gal27/Downloads/7c202e9b-27d3-4d1e-a295-13c331ce5fbe-Picsart-BackgroundRemover.png" height="200"></p>
 
 <h1 align="center">Thunderbird</h1>
 
