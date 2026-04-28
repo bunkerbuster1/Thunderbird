@@ -9,9 +9,13 @@ Updates about Thunderbird and it status can be found in my [Discord Server](http
 🔴Whats New🔴:
 
 Changed UI⚙️
+
 Reworked text and discord link🗨️🔵
+
 Made some new themes🎨
+
 Fixed settings📐
+
 Made settings moveable⬆️
 
 🔵INSTRUCTIONS TO DEPLOY🔵:
