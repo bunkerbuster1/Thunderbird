@@ -4,19 +4,19 @@
 
 🟢(STATUS: currently up)🟢
 
-Updates about Thunderbird and it status can be found in my [Discord Server](https://discord.gg/MkadnWkFvv).
+- Updates about Thunderbird and it status can be found in my [Discord Server](https://discord.gg/MkadnWkFvv).
 
 🔴Whats New🔴:
 
-Changed UI⚙️
+- Changed UI⚙️
 
-Reworked text and discord link🗨️🔵
+- Reworked text and discord link🗨️🔵
 
-Made some new themes🎨
+- Made some new themes🎨
 
-Fixed settings📐
+- Fixed settings📐
 
-Made settings moveable⬆️
+- Made settings moveable⬆️
 
 🔵INSTRUCTIONS TO DEPLOY🔵:
 
